@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "antd": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-image": "2.4.0",
+    "react-router-dom": "5.1.2"
+  },
+  "keywords": [],
+  "name": "meno",
+  "description": ""
+}

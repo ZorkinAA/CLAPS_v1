@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "antd": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-image": "2.4.0",
+    "react-router-dom": "5.1.2"
+  },
+  "keywords": [],
+  "name": "meno",
+  "description": "",
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
